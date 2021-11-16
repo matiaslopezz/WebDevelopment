@@ -1,0 +1,18 @@
+/*
+Custom CSS for TemplateMo 561 Purple Buzz
+
+https://templatemo.com/tm-561-purple-buzz
+
+*/
+
+.bootstrap-logo{
+    border-radius: 8%;
+}
+
+.work-img {
+    width: 50%;
+    border-radius: 8%;
+    display: block;
+    padding: 1em;
+}
+
